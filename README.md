@@ -30,4 +30,4 @@ And you should be familiar with:
 
 Getting Started
 ---------------
-1. Clone or Download the Repository
+1. Select Use this Template, or Clone or Download the Repository
